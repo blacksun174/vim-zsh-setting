@@ -1,2 +1,3 @@
 #Install
-sh vim-zsh-setting
+
+sh vim-zsh-setting/.shell.sh
